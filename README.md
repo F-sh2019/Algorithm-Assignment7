@@ -11,15 +11,20 @@ https://youtu.be/gNwyEJmhkts
 
 3-Given a linked list, write a function to reverse every k nodes (where k is an input to the function).If a linked list is given as 1->2->3->4->5->6->7->8->NULL and k = 3 then output will be 3->2->1->6->5->4->8->7->NULL.
 
+https://youtu.be/eHGwWjXBS-A
 
 4-Given a linked list, check if the the linked list has a loop. Linked list can contain self loop.
 
+https://youtu.be/oRt7SVR-yL8
 
 5-Given a linked list, the task is to find the n'th node from the end. 
 
+https://youtu.be/hb8u911NOqo
 
 6-Given two linked lists sorted in ascending order. Merge them in-place and return head of the merged list.   For example, if first list is 10->20->30 and second list is 15->17, then the result list should be 10->15->17->20->30.
 It is strongly recommended to do merging in-place using O(1) extra space.
+
+https://youtu.be/zA4j7eOsWYI
 
 7-Given a Linked List where every node represents a linked list and contains two pointers of its type:
 (i) anext pointer to the next node
